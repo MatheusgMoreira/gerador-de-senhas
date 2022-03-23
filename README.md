@@ -1,3 +1,3 @@
 # Gerador de senhas
 
-Gerador de senhas contendo 15 caracteres utilizando HTML + CSS + JavaScript
+Gerador de senhas utilizando HTML + CSS + JavaScript
